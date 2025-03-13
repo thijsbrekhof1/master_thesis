@@ -1,0 +1,43 @@
+What is the source's established reputation and standing within its field of expertise?
+Does the author have appropriate expertise or qualifications?
+Has the source undergone peer review or editorial oversight?
+Is the source free from bias or conflicts of interest?
+Is the publisher of the source reputable?
+Can the information in the source be independently verified?
+Is the source based on empirical evidence or firsthand data?
+Is the source properly cited and accessible to readers?
+Is the information presented by the source up-to-date?
+Does the source present multiple viewpoints or a balanced perspective?
+Is the source known for its objectivity or neutrality?
+Does the source reflect the consensus of experts on the subject?
+Does the source avoid advocacy or promoting a specific agenda?
+Is this source directly relevant to the claim being made?
+Is the source appropriate for the context of the article?
+Does the source provide the correct level of detail or depth for this claim?
+Is the source's level of expertise and depth appropriate for how we're using it in this specific context
+Is this source presenting new or original research?
+Does this source draw its own conclusions, or is it summarizing existing knowledge?
+Does the claim in the article match what the source explicitly states, or is there interpretation involved?
+Are multiple sources combined in a way that introduces original analysis?
+Does the source meet Wikipedia’s standards for reliable sourcing?
+Is the citation correctly formatted and detailed?
+Does the source comply with Wikipedia’s policy on primary, secondary, and tertiary sources?
+What do other editors say about the reliability of this source?
+What do experts say about the reliability of this source?
+Can we reach a consensus on whether this source meets Wikipedia’s standards?
+Are there alternative sources we could use that are more reliable?
+Are there any previous consensus discussions about this source?
+Are there exceptional circumstances affecting the source's reliability?
+Does the source acknowledge and address changes in their positions over time?
+Does the source properly distinguish between correlation and causation?
+How does the source handle contradictory evidence?
+Does the source acknowledge limitations in its approach?
+Does the source base its claims on sufficient examples/cases?
+Is the source's coverage representative of the full topic?
+Are there any known retractions or corrections associated with this source?
+Is there transparency about funding sources?
+Has the source's reliability been consistent throughout its history?
+Are all made claims supported by a source?
+Do other reputable sources (regularly) reference this source?
+Are there concrete instances where this source has been proven accurate?
+How well are the source's methods and findings preserved?

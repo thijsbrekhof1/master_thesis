@@ -1,0 +1,15 @@
+transformers>=4.46.3
+accelerate>=1.1.1
+pandas
+argparse
+sentencepiece
+torch
+numpy
+wheel
+flash-attn>=2.3.3
+einops
+sentence_transformers
+scikit-learn
+tqdm
+seaborn
+matplotlib
