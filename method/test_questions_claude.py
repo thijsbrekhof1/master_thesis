@@ -25,7 +25,7 @@ def get_group_id(row):
 class ClaudeAnalyzer:
     def __init__(self, model="claude-3-5-sonnet-20241022"):
         self.client = Anthropic(
-            api_key="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")
+            api_key="")
         self.model = model
         self.questions = load_questions()
         self.system_prompt = self._create_system_prompt()
