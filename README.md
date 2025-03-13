@@ -128,7 +128,7 @@ Wiki-Fact-check-Interaction.jsonl: Wikipedia fact-checking interactions
 rfc_predecessor_pairs_plain_text (4).json: RFC discussions with predecessor data
 
 ## Notes
-Most scripts are designed to run on a computer cluster using shell scripts
+Most scripts are designed to run on a computer cluster using shell scripts. You can find the used shellscripts under method/shellscripts.
 Checkpointing is implemented to allow resuming long-running processes
 Memory management is built in to handle GPU resource constraints
 
